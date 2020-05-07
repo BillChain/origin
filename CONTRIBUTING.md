@@ -28,7 +28,7 @@ judgement.
 
 ## Coding guidelines
 
-### ETH addresses
+### ETH addresses : 0x5133275434Bf1ae3f88b9AD51050B49953Fd40ff
 
 Both checksummed and lowercased ETH address are technically valid. In our
 codebase, we chose the convention to:
